@@ -1,0 +1,2 @@
+# PokedexW
+Pokedex-API
